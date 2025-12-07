@@ -41,5 +41,6 @@ GNU General Public License v3.0
 
 Carlo Cumino - GitHub: Cumino-Carlo
 
-**Citations**
+**Citations:**
+
 [1] G. De Carlo, *Informatica della Cold Reading* Appendix in R. Hayman *Manuale di Cold Reading*, CCIAP 2007, pp. 114-115
