@@ -1,8 +1,7 @@
 # Reader---A-Cold-Reading-Software
-This project is a simplified version of the PHP Cold Reading reader presented by Giacomo De Carlo in the appendix of the Italian edition of *Manual of Cold Reading* (published in 2007 as *Manuale di Cold Reading*) by Ray Hyman, published by the association CICAP (Comitato Italiano per il Controllo delle Affermazioni sulle Pseudoscienze)[1]. Giacomo De Carlo published his code in a book and encouraged experimentation , indicating that any computer equipped with the software would be able to perform readings of the future, and directing those unfamiliar with programming to the CICAP website[1].
+This project is a simplified version of the PHP Cold Reading reader presented by Giacomo De Carlo in the appendix of the Italian edition of *Manual of Cold Reading* (published in 2007 as *Manuale di Cold Reading*) by Ray Hyman, published by the association CICAP (Comitato Italiano per il Controllo delle Affermazioni sulle Pseudoscienze). Giacomo De Carlo published his code in a book and encouraged experimentation, indicating that any computer equipped with the software would be able to perform readings of the future, and directing those unfamiliar with programming to the CICAP website.
 
-
-This code is released under the GNU General Public License v3.0 license to promote learning, experimentation, and sharing, in line with Giacomo De Carlo's original intent.
+This code is released under the **GNU General Public License v3.0** license to promote learning, experimentation, and sharing, in line with Giacomo De Carlo's original intent.
 
 **Description:**
 
@@ -17,7 +16,7 @@ The PHP code generates a personalized "future reading" based on user input (name
 **Installation:**
 
 1.  Save the PHP code in a file (e.g., `index.php`).
-2.  Create a CSS file named `style.css` (optional, to customize the appearance).
+2.  Save or create a CSS file named `style.css` (optional, to customize the appearance).
 3.  Ensure you have a web server with PHP installed (e.g., Apache, Nginx with PHP-FPM).
 4.  Place the `index.php` and `style.css` files in the root directory of your web server.
 
@@ -39,8 +38,8 @@ GNU General Public License v3.0
 
 **Author:**
 
-Carlo Cumino - GitHub: Cumino-Carlo
+Carlo Cumino -  - [GitHub: Cumino-Carlo](https://github.com/Cumino-Carlo)
 
-**Citations:**
+## References
 
-[1] G. De Carlo, *Informatica della Cold Reading* Appendix in R. Hayman *Manuale di Cold Reading* (trad. F. Di Maio), *I quaderni di Magia*, CICAP 2007, pp. 114-115
+ G. De Carlo, "Informatica della Cold Reading" Appendix in R. Hyman *Manuale di Cold Reading* (trad. F. Di Maio), I quaderni di Magia, CICAP 2007, pp. 114-115
