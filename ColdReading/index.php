@@ -23,7 +23,7 @@ if (isset($_POST['name']) && isset($_POST['number'])) {
 </head>
 <body>
     <?php if (isset($_POST['name']) && isset($_POST['number'])): ?>
-        <h1>Lettura del Futuro</h1>
+        <h1 class="title">La tua Lettura del futuro</h1>
         <p>Ciao <em><?php echo htmlspecialchars($name); ?></em>,</p>
 
         <h2>Generale</h2>
@@ -46,9 +46,12 @@ if (isset($_POST['name']) && isset($_POST['number'])) {
         <p><?php echo getFrase('lavoro', 'presente', $frasi); ?></p>
         <p><?php echo getFrase('lavoro', 'futuro', $frasi); ?></p>
 
-        <p>Il tuo numero fortunato è <em><?php echo $sum; ?></em></p>
+        <p>Il tuo numero fortunato è: <em><?php echo $sum; ?></em></p>
+
+        <a href="<?php echo htmlspecialchars($_SERVER['PHP_SELF']);?>">Nuova lettura</a>
 
     <?php else: ?>
+    <h1 class="title">Prova la tua lettura del futuro</h1>
         <form method="post">
             <label for="name">Nome:</label>
             <input type="text" name="name" id="name" placeholder="Nome" required><br><br>
@@ -56,8 +59,11 @@ if (isset($_POST['name']) && isset($_POST['number'])) {
             <label for="number">Data di nascita:</label>
             <input type="text" name="number" id="number" placeholder="GG/MM/AAAA" required><br><br>
 
-            <button type="submit">Cold Reading</button>
+            <button type="submit">Via alla tua lettura</button>
         </form>
+    <?php endif; ?>
+</body>
+</html>
     <?php endif; ?>
 </body>
 </html>
