@@ -1,0 +1,21 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 6 dic 2025, 10:15:37
+    Author     : ccumi
+*/
+body {
+    line-height: 18px;
+    font: 13px Verdana,Arial, sans-serif;
+    padding: 10px;
+}
+.title{
+     font: 16px Verdana,Arial, sans-serif;
+}
+A:link, A:visited, A:hover, A:active{
+    color:#093265;
+    text-decoration: underline;
+    background-color: inherit;
+}
