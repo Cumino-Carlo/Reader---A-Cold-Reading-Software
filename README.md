@@ -43,4 +43,4 @@ Carlo Cumino - GitHub: Cumino-Carlo
 
 **Citations:**
 
-[1] G. De Carlo, *Informatica della Cold Reading* Appendix in R. Hayman *Manuale di Cold Reading*, CCIAP 2007, pp. 114-115
+[1] G. De Carlo, *Informatica della Cold Reading* Appendix in R. Hayman *Manuale di Cold Reading* (trad. F. Di Maio), *I quaderni di Magia*, CICAP 2007, pp. 114-115
