@@ -1,5 +1,5 @@
 # Reader---A-Cold-Reading-Software
-This project is a simplified version of the PHP Cold Reading reader presented by Giacomo De Carlo in the appendix of the Italian edition of *Manual of Cold Reading* by Ray Hyman, published by the association CICAP (Comitato Italiano per il Controllo delle Affermazioni sulle Pseudoscienze). Giacomo De Carlo published his code in a book and encouraged experimentation , indicating that any computer equipped with the software would be able to perform readings of the future, and directing those unfamiliar with programming to the CICAP website.
+This project is a simplified version of the PHP Cold Reading reader presented by Giacomo De Carlo in the appendix of the Italian edition of *Manual of Cold Reading* (published in 2007 as *Manuale di Cold Reading*) by Ray Hyman, published by the association CICAP (Comitato Italiano per il Controllo delle Affermazioni sulle Pseudoscienze)[1]. Giacomo De Carlo published his code in a book and encouraged experimentation , indicating that any computer equipped with the software would be able to perform readings of the future, and directing those unfamiliar with programming to the CICAP website[1].
 
 
 This code is released under the GNU General Public License v3.0 license to promote learning, experimentation, and sharing, in line with Giacomo De Carlo's original intent.
@@ -40,3 +40,6 @@ GNU General Public License v3.0
 **Author:**
 
 Carlo Cumino - GitHub: Cumino-Carlo
+
+**Citations**
+[1] G. De Carlo, *Informatica della Cold Reading* Appendix in R. Hayman *Manuale di Cold Reading*, CCIAP 2007, pp. 114-115
